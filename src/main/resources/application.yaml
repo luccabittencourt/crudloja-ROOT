@@ -6,7 +6,7 @@ spring:
         name: projetoloja
     datasource:
         url: jdbc:postgresql://localhost:5432/crudloja
-        username: root
+        username: postgres
         password: root
         driver-class-name: org.postgresql.Driver
         initialize: true
